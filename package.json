@@ -1,6 +1,6 @@
 {
   "name": "caramel-mocha",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A simplified testing framework build on mocha",
   "main": "index.js",
   "scripts": {
