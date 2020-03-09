@@ -1,0 +1,39 @@
+{
+  "name": "caramel-mocha",
+  "version": "0.1.0",
+  "description": "A simplified testing framework build on mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saswatds/caramel-mocha.git"
+  },
+  "keywords": [
+    "caramel",
+    "mocha",
+    "testing"
+  ],
+  "author": "Daz <saswatds@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saswatds/caramel-mocha/issues"
+  },
+  "homepage": "https://github.com/saswatds/caramel-mocha#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "escape-string-regexp": "^2.0.0",
+    "figures": "^3.2.0",
+    "fn-args": "^5.0.0",
+    "glob": "^7.1.6",
+    "mocha": "^7.1.0",
+    "ms": "^2.1.2",
+    "promise-retry": "^1.1.1"
+  }
+}
