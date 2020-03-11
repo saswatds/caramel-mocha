@@ -1,0 +1,6 @@
+{
+  "globals": {
+    "feature": true,
+    "scenario": true
+  }
+}
