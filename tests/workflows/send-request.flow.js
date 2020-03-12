@@ -1,4 +1,4 @@
-feature('Feature 1');
+feature('Feature 1').tag('abc');
 
 scenario('Scenario 1', (I) => {
   I.pause();

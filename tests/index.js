@@ -13,7 +13,9 @@ class Tools extends Helper {
     });
   }
 
-  async $pause() {
+  async $pause(ctx) {
+    console.log(ctx.getFullTag());
+
     return new Promise((r, j) => {
       setTimeout(() => {
         console.log('pause');
