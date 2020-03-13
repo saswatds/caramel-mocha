@@ -2,5 +2,8 @@
   "globals": {
     "feature": true,
     "scenario": true
+  },
+  "rules": {
+    "class-methods-use-this": "off"
   }
 }

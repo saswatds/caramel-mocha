@@ -4,6 +4,11 @@ const Caramel = require('../index'),
 
 
 class Tools extends Helper {
+  after(test) {
+    console.log(test.getDuration());
+    console.log(test.duration);
+  }
+
   async beforeAll() {
     return new Promise((r, j) => {
       setTimeout(() => {
