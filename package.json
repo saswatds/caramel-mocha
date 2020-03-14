@@ -36,6 +36,7 @@
     "mocha": "^7.1.0",
     "ms": "^2.1.2",
     "promise-retry": "^1.1.1",
-    "prompt": "1.0.0"
+    "prompt": "1.0.0",
+    "signale": "1.4.0"
   }
 }
