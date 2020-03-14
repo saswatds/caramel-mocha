@@ -1,6 +1,6 @@
 {
   "name": "caramel-mocha",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "A simplified testing framework build on mocha",
   "main": "index.js",
   "scripts": {
@@ -30,7 +30,6 @@
     "async": "3.2.0",
     "chalk": "^3.0.0",
     "escape-string-regexp": "^2.0.0",
-    "figures": "^3.2.0",
     "fn-args": "^5.0.0",
     "glob": "^7.1.6",
     "mocha": "^7.1.0",
