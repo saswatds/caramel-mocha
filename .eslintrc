@@ -1,0 +1,10 @@
+{
+  "extends": "airbnb-base",
+  "rules": {
+    "prefer-rest-params": "off",
+    "no-param-reassign": "off",
+    "consistent-return": "off",
+    "one-var":["error", "consecutive"],
+    "max-classes-per-file": "off"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "feature": true,
+    "scenario": true,
+    "setup": true,
+    "teardown": true
+  },
+  "rules": {
+    "class-methods-use-this": "off"
+  }
+}
