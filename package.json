@@ -32,7 +32,7 @@
     "escape-string-regexp": "^2.0.0",
     "fn-args": "^5.0.0",
     "glob": "^7.1.6",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "ms": "^2.1.2",
     "promise-retry": "^1.1.1",
     "prompt": "1.0.0",
